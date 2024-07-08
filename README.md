@@ -291,7 +291,7 @@ ul li a:hover
 }
 
 ###OUTPUT:
+![landingpage1](https://github.com/Arini22009085/codsoftland/assets/119643315/8a36327d-1431-4dc9-b6b2-0105eba2326a)
 
-![landpage](https://github.com/Arini22009085/codsoftland/assets/119643315/34bee521-dd6f-4cd8-9f0d-4b936e5c561b)
 
 ```
