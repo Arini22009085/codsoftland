@@ -292,6 +292,6 @@ ul li a:hover
 
 ###OUTPUT:
 
-![Screenshot (31)](https://github.com/Arini22009085/codsoftland/assets/119643315/f2c4996f-5b9b-4f43-9c18-3ac7cbb0116b)
+![Screenshot (31)](https://github.com/Arini22009085/codsoftland/assets/119643315/80d6777a-0a3c-48d5-8d7b-1f5dd938d884)
 
 ```
