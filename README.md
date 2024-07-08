@@ -291,6 +291,7 @@ ul li a:hover
 }
 
 ###OUTPUT:
-"C:\Users\Arini.A\OneDrive\Pictures\Screenshots\Screenshot (31).png"
+
+![Screenshot (31)](https://github.com/Arini22009085/codsoftland/assets/119643315/f2c4996f-5b9b-4f43-9c18-3ac7cbb0116b)
 
 ```
